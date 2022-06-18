@@ -1,0 +1,51 @@
+Welcome To Dungeon
+
+You are in a cave ID: 6 || possible moves: [N]
+Treasures: [RUBIE, SAPPHIRE, DIAMOND, ARROW]
+Move, Pickup, or Shoot (M-P-S)?You Pick Treasure: [RUBIE, SAPPHIRE, DIAMOND, ARROW]
+
+You are in a cave ID: 6 || possible moves: [N]
+Treasures: []
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: N
+
+You are in a tunnel ID: 3 || possible moves: [S, N]
+Treasures: []
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: N
+
+You are in a tunnel ID: 0 || possible moves: [E, S]
+Treasures: []You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?Where to Shoot? (N-S-E-W)No. of caves?You hear a great howl in the distance
+
+You are in a tunnel ID: 0 || possible moves: [E, S]
+Treasures: []You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: E
+
+
+you are hit by an Otyugh!
+You are lucky and evades the attack
+
+You are in a cave ID: 1 || possible moves: [E, S, W]
+Treasures: [RUBIE, SAPPHIRE, DIAMOND, ARROW]You smell something terrible nearbyYou smell something terrible in a distance
+Move, Pickup, or Shoot (M-P-S)?You Pick Treasure: [RUBIE, SAPPHIRE, DIAMOND, ARROW]
+
+You are in a cave ID: 1 || possible moves: [E, S, W]
+Treasures: []You smell something terrible nearbyYou smell something terrible in a distance
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: S
+
+You are in a tunnel ID: 4 || possible moves: [S, N]
+Treasures: []You smell something terrible nearbyYou smell something terrible in a distance
+Move, Pickup, or Shoot (M-P-S)?Where to Shoot? (N-S-E-W)No. of caves?You hear a great howl in the distance
+
+You are in a tunnel ID: 4 || possible moves: [S, N]
+Treasures: []You smell something terrible nearbyYou smell something terrible in a distance
+Move, Pickup, or Shoot (M-P-S)?Where to Shoot? (N-S-E-W)No. of caves?You hear a great howl in the distance
+
+You are in a tunnel ID: 4 || possible moves: [S, N]
+Treasures: []You smell something terrible nearby
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: S
+
+You are in a cave ID: 7 || possible moves: [N]
+Treasures: [RUBIE, SAPPHIRE, DIAMOND, ARROW]
+You reach the end
+Move, Pickup, Shoot or Leave Dungeon (M-P-S-L)?You win the game and leave:
+player 1: {DIAMOND=2, ARROW=2, RUBIE=2, SAPPHIRE=2}

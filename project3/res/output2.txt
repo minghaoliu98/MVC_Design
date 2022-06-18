@@ -1,0 +1,14 @@
+Welcome To Dungeon
+
+You are in a cave ID: 8 || possible moves: [N]
+Treasures: [RUBIE, SAPPHIRE, DIAMOND, ARROW]
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: N
+
+You are in a tunnel ID: 4 || possible moves: [S, N]
+Treasures: []You smell something terrible nearbyYou smell something terrible in a distance
+Move, Pickup, or Shoot (M-P-S)?Where to Go? (N-S-E-W)Move: N
+
+
+you are eaten by an Otyugh!
+Better luck next time
+

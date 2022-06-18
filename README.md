@@ -86,7 +86,7 @@ The world for our game consists of controller and a dungeon, a network of tunnel
 ###### **Description of Examples**
 
 projecte.jar
-Run 1 -- ![project3/res/img.png](img.png)
+Run 1 -- ![img.png](img.png)
 
 Run 2 -- output1.txt:
 1. This is base on the wrapped game.
